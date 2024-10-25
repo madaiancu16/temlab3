@@ -1,0 +1,1 @@
+Produs{denumire='paine', pret=1.0, cantitate=15, dataExpirare=2023-10-30}
